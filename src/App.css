@@ -1,0 +1,38 @@
+/* .container{
+  z-index: -1;
+  width: auto;
+
+  
+}
+
+.cards
+{
+  margin-left: 50px;
+}
+
+
+
+.container .rec.rec-arrow-left{
+
+  position: absolute;
+  top:10px;
+}
+
+/* .container .rec.rec-arrow-left{
+  border-radius: 0;
+  position: absolute;
+  top: 10px;
+  right: 150px;
+  color: white;
+  background-color: grey;
+}
+
+.container .rec.rec-arrow-right{
+  border-radius: 0;
+  top: 10px;
+  right: 210px;
+  color: white;
+  background-color: grey;
+  
+} */
+ 
